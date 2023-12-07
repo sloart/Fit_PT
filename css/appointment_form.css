@@ -1,0 +1,27 @@
+.mainContainer form .fields-apt {
+    display: flex;
+}
+form .input-field-apt .entries, textarea{
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+form .input-field-apt{
+    font-size: 15px;
+    display: block;
+}
+form .input-field-apt select{
+    height: 40px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 0;
+
+}
+form .input-field-apt label{
+    font-size: 15px;
+    margin-right: 20px;
+    width: 100px;
+}
